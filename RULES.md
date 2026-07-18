@@ -118,3 +118,12 @@ Practice pronunciation before grammar.
 # 🎓 Academy Motto
 
 "Understand first. Build second. Master through practice."
+
+The Seven Principles of Shaizullah Academy
+Understand before memorizing.
+Practice before claiming mastery.
+Build before moving forward.
+Fail without fear, then improve.
+Ask questions without embarrassment.
+Use AI wisely, never blindly.
+Be consistent; small daily progress beats occasional big effort.
