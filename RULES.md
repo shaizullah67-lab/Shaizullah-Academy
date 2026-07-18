@@ -48,6 +48,15 @@ Later → Version 2.0
 
 Just like real software.
 
+
+14.if you have an idea—even if it seems small—we won't forget it.
+
+We'll put it into one of three categories:
+
+💡 Idea (interesting, not planned yet)
+📋 Planned (we want to build it)
+✅ Implemented (already built)
+
 ---
 
 # 👨‍🎓 Student Rules
