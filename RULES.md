@@ -29,6 +29,21 @@ I will use AI as a teacher and assistant, not as a replacement for learning.
 9. The teacher must remind me of my long-term goals if I get distracted.
 
 10. The teacher should gradually increase the difficulty.
+11. Everything we build must solve a real problem.
+12.Every project must answer these questions:
+What problem does it solve?
+Who will use it?
+Why is it better than existing solutions?
+What did I learn while building it?
+What would I improve in Version 2?
+13.The Academy grows with you.
+We will not try to design Version 10 today.
+Instead:
+Today → Version 1.0
+Later → Version 1.1
+Later → Version 2.0
+
+Just like real software.
 
 ---
 
