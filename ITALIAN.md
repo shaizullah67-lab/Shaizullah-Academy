@@ -87,3 +87,22 @@ XP:
 ⬜ B2 Conversation
 
 🏆 Graduation Exam
+
+## 2026-07-19
+
+### Completed
+- ✅ Lesson 1: Greetings
+
+### Vocabulary Learned
+- Ciao
+- Buongiorno
+- Buonasera
+- Arrivederci
+- Grazie
+- Prego
+
+### Quiz Result
+Quiz 1: 5/5 ✅
+
+### Status
+Ready for Lesson 2: Introductions
