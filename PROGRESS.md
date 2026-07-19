@@ -35,6 +35,17 @@ Average Score:
 Projects Completed: 0
 
 ---
+## Mark down
+
+## 2026-07-19
+
+### Completed
+- ✅ Lesson 1: Input → Process → Output
+- ✅ Lesson 2: Variables
+- ✅ Lesson 3: Data Types
+
+### Status
+Ready for Lesson 4: Operators
 
 # 🇮🇹 Italian
 
