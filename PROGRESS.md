@@ -57,17 +57,17 @@ Current Semester: 1
 
 Current Level: A0
 
-Current Lesson:
+Current Lesson: Lesson 2 - Introductions
 
-Vocabulary Learned: 0
+Vocabulary Learned: 6
 
-Speaking:
+Speaking: Beginner
 
-Listening:
+Listening: Beginner
 
-Reading:
+Reading: Beginner
 
-Writing:
+Writing: Beginner
 
 ---
 
