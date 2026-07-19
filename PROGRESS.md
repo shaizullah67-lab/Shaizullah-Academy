@@ -43,13 +43,12 @@ Quizzes Passed: 3
 
 ## 2026-07-19
 
-### Completed
-- ✅ Lesson 1: Input → Process → Output
-- ✅ Lesson 2: Variables
-- ✅ Lesson 3: Data Types
+## HTML Progress
 
-### Status
-Ready for Lesson 4: Operators
+- ✅ Lesson 1 - Introduction to HTML
+- ✅ Lesson 2 - Headings, Paragraphs & Text Formatting
+
+
 
 # 🇮🇹 Italian
 
@@ -75,47 +74,25 @@ Writing: Beginner
 
 ---
 
-# 🧠 Skills Learned
 
-✅ Input / Process / Output
-
-✅ Variables
-
-✅ Data Types
-
-⬜ Operators
-
-⬜ Conditions
-
-⬜ Loops
-
-⬜ Functions
-
-⬜ Lists
-
-⬜ Dictionaries
-
-⬜ OOP
-
-⬜ File Handling
 
 # 📈 Statistics
 
-Lessons Completed: 3
+Lessons Completed: 2
 
-Quizzes Passed: 3
+Quizzes Passed: 2
 
 Homework Completed: 0
 
 Projects Completed: 0
 
-Overall Progress: 3%
+Overall Progress: 2%
 
 # 🏆 Current Objectives
 
 ☑ Complete Lesson 1
 ☑ Complete Lesson 2
-☑ Complete Lesson 3
+⬜ Complete Lesson 3
 ⬜ Complete Lesson 4
 ⬜ Finish Homework
 ⬜ Complete First Python Project
