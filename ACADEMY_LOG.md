@@ -20,3 +20,12 @@ Programming Fundamentals (Stage 1)
 
 Next Lesson:
 Operators
+
+## Italian:
+- Lesson 1 ✅ Greetings
+
+Italian Quiz:
+- Quiz 1: 5/5
+
+Vocabulary:
+6 words
