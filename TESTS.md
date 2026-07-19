@@ -1,12 +1,15 @@
-## Test Record
+# HTML Tests
 
-### 2026-07-19
+## Lesson 2 Quiz
 
-Quiz 1 (Programming Basics): 5/5 ✅
+Score: Passed ✅
 
-Quiz 2 (Variables): 10/10 ✅
+Result:
+- Good understanding of headings.
+- Correct use of paragraphs.
+- Correct use of line breaks.
+- Correct use of horizontal lines.
+- Correct use of text formatting tags.
 
-Quiz 3 (Data Types): 5/5 ✅
-
-Teacher Comment:
-Excellent understanding of concepts. Minor confusion between string concatenation and integer addition, corrected after explanation.
+Overall Result:
+PASS
