@@ -26,7 +26,13 @@ Current Semester: 1
 
 Current Level: 1
 
-Current Lesson: Lesson 4 - Operators
+Current Semester: 1
+
+Current Module: HTML
+
+Current Lesson: Lesson 2 - Headings, Paragraphs & Text Formatting
+
+Lessons Completed: 2
 
 Status: 🟢 In Progress
 
