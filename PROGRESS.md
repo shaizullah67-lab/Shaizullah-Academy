@@ -57,9 +57,13 @@ Current Semester: 1
 
 Current Level: A0
 
-Current Lesson: Lesson 2 - Introductions
+Current Lesson: Lesson 2 – Introductions
 
-Vocabulary Learned: 6
+Current Vocabulary: 6 Words
+
+Average Score: 100%
+
+XP: 30
 
 Speaking: Beginner
 
