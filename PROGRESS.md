@@ -134,6 +134,29 @@ Complete Python Fundamentals
 Progress:
 
 ████░░░░░░░░░░░░░░ 15%
+## HTML Progress
+
+Status: In Progress
+
+Completed Lessons:
+- ✅ Lesson 1 - Headings & Paragraphs
+- ✅ Lesson 2 - Formatting Tags
+- ✅ Lesson 3 - Lists
+- ✅ Lesson 4 - Links
+
+Current Lesson:
+➡️ Lesson 5 (Next Class)
+
+Homework Completed:
+- ✅ About Me
+- ✅ Favorite Dish (Lists)
+- ✅ Basic Websites (Links)
+
+Quizzes Passed:
+- ✅ Lesson 1
+- ✅ Lesson 2
+- ✅ Lesson 3
+- ✅ Lesson 4
 
 Last Updated:
 July 2026
