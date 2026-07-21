@@ -56,28 +56,6 @@ Quizzes Passed: 3
 
 
 
-# 🇮🇹 Italian
-
-Current Semester: 1
-
-Current Level: A0
-
-Current Lesson: Lesson 2 – Introductions
-
-Current Vocabulary: 6 Words
-
-Average Score: 100%
-
-XP: 30
-
-Speaking: Beginner
-
-Listening: Beginner
-
-Reading: Beginner
-
-Writing: Beginner
-
 ---
 
 
@@ -94,26 +72,6 @@ Projects Completed: 0
 
 Overall Progress: 2%
 
-# 🏆 Current Objectives
-
-☑ Complete Lesson 1
-☑ Complete Lesson 2
-⬜ Complete Lesson 3
-⬜ Complete Lesson 4
-⬜ Finish Homework
-⬜ Complete First Python Project
-
----
-
-# 📅 Next Class
-
-Software Engineering
-
-Level 0
-
-Lesson 1
-
----
 
 # 👨‍🏫 Teacher Evaluation
 
@@ -133,10 +91,17 @@ Complete Python Fundamentals
 
 Progress:
 
-████░░░░░░░░░░░░░░ 15%
+
 ## HTML Progress
 
 Status: In Progress
+✅ Lesson 1 - Headings & Paragraphs
+✅ Lesson 2 - Text Formatting
+✅ Lesson 3 - Lists
+✅ Lesson 4 - Links
+✅ Lesson 5 - Images
+✅ Lesson 6 - Tables
+✅ Lesson 7 - Forms
 
 Completed Lessons:
 - ✅ Lesson 1 - Headings & Paragraphs
