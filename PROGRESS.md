@@ -163,3 +163,18 @@ July 2026
 
 Last Updated:
 July 2026
+HTML Level 1 Progress
+
+✅ Lesson 1 - Headings & Paragraphs
+✅ Lesson 2 - Text Formatting
+✅ Lesson 3 - Lists
+✅ Lesson 4 - Links
+✅ Lesson 5 - Images
+✅ Lesson 6 - Tables
+✅ Lesson 7 - Forms
+
+Current Status:
+Ready for Lesson 8 - Multimedia (Audio & Video)
+Last Updated:
+21 July 2026
+
