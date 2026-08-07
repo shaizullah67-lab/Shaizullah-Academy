@@ -2,144 +2,88 @@
 
 ## 👨‍🎓 Student Information
 
-Name: Shaizullah
-
-Academy Started: July 2026
-
-Current Rank: 🟢 Beginner
-
-Current GPA: 100%
-
-Experience (XP): 90
-
-Academy Coins: 45
-
-Study Streak: 1 Day
-
-Attendance: 100%
+- **Name:** Shaizullah
+- **Academy Started:** July 2026
+- **Current Rank:** 🟢 Beginner
+- **Current Level:** 1
+- **Status:** 🟢 In Progress
+- **Last Updated:** 7 August 2026
 
 ---
 
-# 💻 Software Engineering
+# 💻 Software Development Progress
 
-Current Semester: 1
+## Python Fundamentals
 
-Current Level: 1
+### Completed
+- ✅ Input / Output
+- ✅ Variables
+- ✅ Data Types
+- ✅ Conditions
+- ✅ Loops
+- ✅ Functions
+- ✅ Lists
+- ✅ Dictionaries
+- ✅ JSON
+- ✅ File Handling
+- ✅ CRUD Operations
+- ✅ Exception Handling
 
-Current Semester: 1
-
-Current Module: HTML
-
-Current Lesson: Lesson 2 - Headings, Paragraphs & Text Formatting
-
-Lessons Completed: 2
-
-Status: 🟢 In Progress
-
-Average Score: 100%
-
-Projects Completed: 0
-
-Lessons Completed: 3
-
-Quizzes Passed: 3
-
----
-## Mark down
-
-## 2026-07-19
-
-## HTML Progress
-
-- ✅ Lesson 1 - Introduction to HTML
-- ✅ Lesson 2 - Headings, Paragraphs & Text Formatting
-
-
+### Projects / Practice
+- ✅ Student Management System
+- ✅ Billing System
+- ✅ Library Management System
+- ✅ JSON file handling and CRUD practice
 
 ---
 
+# 🧱 Object-Oriented Programming (OOP)
 
+### Completed
+- ✅ OOP Part 1 — Classes & Objects
+- ✅ OOP Part 2 — `__init__()` Constructor & `self`
+- ✅ OOP Part 3 — Methods
+- ✅ OOP Part 4 — Encapsulation, Private Attributes, Getters & Setters
 
-# 📈 Statistics
+### Recent Practice
+- ✅ Book class with constructor and `show()` method
+- ✅ Mobile class with constructor and `info()` method
+- ✅ Loops with multiple objects
+- ✅ BankAccount class with deposit, withdraw and balance methods
 
-Lessons Completed: 2
+### Current Status
+➡️ **Next Lesson: OOP Part 5 — Inheritance**
 
-Quizzes Passed: 2
+---
 
-Homework Completed: 0
+# 📝 Latest Lesson Record
 
-Projects Completed: 0
+## 7 August 2026
 
-Overall Progress: 2%
+### OOP Part 4 — Encapsulation
+- Learned private attributes using `__attribute`
+- Learned getters and setters
+- Practiced controlled access to object data
+- Built a `BankAccount` class
+- Practiced deposit, withdrawal, balance checking, loops and validation
 
+**Status:** ✅ Completed
 
-# 👨‍🏫 Teacher Evaluation
+### Next Class
+➡️ OOP Part 5 — Inheritance
 
-Understanding: ⭐⭐⭐⭐⭐
+---
 
-Problem Solving: ⭐⭐⭐⭐☆
+# 📈 Teacher Evaluation
 
-Python Syntax: ⭐⭐☆☆☆
+- **Understanding:** ⭐⭐⭐⭐⭐
+- **Problem Solving:** ⭐⭐⭐⭐⭐
+- **Python Syntax:** ⭐⭐⭐⭐☆
+- **OOP Understanding:** ⭐⭐⭐⭐☆
+- **Consistency:** ⭐⭐⭐⭐⭐
 
-Consistency: ⭐⭐⭐⭐⭐
+**Overall Performance:** Excellent
 
-Overall Performance: Excellent
+---
 
-# 🎯 Current Goal
-
-Complete Python Fundamentals
-
-Progress:
-
-
-## HTML Progress
-
-Status: In Progress
-✅ Lesson 1 - Headings & Paragraphs
-✅ Lesson 2 - Text Formatting
-✅ Lesson 3 - Lists
-✅ Lesson 4 - Links
-✅ Lesson 5 - Images
-✅ Lesson 6 - Tables
-✅ Lesson 7 - Forms
-
-Completed Lessons:
-- ✅ Lesson 1 - Headings & Paragraphs
-- ✅ Lesson 2 - Formatting Tags
-- ✅ Lesson 3 - Lists
-- ✅ Lesson 4 - Links
-
-Current Lesson:
-➡️ Lesson 5 (Next Class)
-
-Homework Completed:
-- ✅ About Me
-- ✅ Favorite Dish (Lists)
-- ✅ Basic Websites (Links)
-
-Quizzes Passed:
-- ✅ Lesson 1
-- ✅ Lesson 2
-- ✅ Lesson 3
-- ✅ Lesson 4
-
-Last Updated:
-July 2026
-
-Last Updated:
-July 2026
-HTML Level 1 Progress
-
-✅ Lesson 1 - Headings & Paragraphs
-✅ Lesson 2 - Text Formatting
-✅ Lesson 3 - Lists
-✅ Lesson 4 - Links
-✅ Lesson 5 - Images
-✅ Lesson 6 - Tables
-✅ Lesson 7 - Forms
-
-Current Status:
-Ready for Lesson 8 - Multimedia (Audio & Video)
-Last Updated:
-21 July 2026
-
+> ⚠️ Roadmap is intentionally not modified. This file only records learning progress and completed work.
