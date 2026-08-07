@@ -11,6 +11,14 @@
 
 ---
 
+# 🔒 Academy Rule
+
+> **NEVER UPDATE OR MODIFY THE ROADMAP.**
+>
+> The roadmap is fixed. Only update progress, completed lessons, projects, scores, and related learning records when requested.
+
+---
+
 # 💻 Software Development Progress
 
 ## Python Fundamentals
@@ -83,7 +91,3 @@
 - **Consistency:** ⭐⭐⭐⭐⭐
 
 **Overall Performance:** Excellent
-
----
-
-> ⚠️ Roadmap is intentionally not modified. This file only records learning progress and completed work.
